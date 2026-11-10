@@ -26,9 +26,12 @@ Le rapport d'audit n'est pas fait systématiquement pour chaque room, seulement 
 │   ├── sqhell/
 │   │   ├── writeup.md
 │   │   └── images/
-│   └── thats-the-ticket/
-│       ├── writeup.md
-│       └── images/
+│   ├── thats-the-ticket/
+│   │   ├── writeup.md
+│   │   └── images/
+│   ├── dogcat/
+│   │   ├── writeup.md
+│   │   └── images/
 └── HTB/
     └── ...
 ```
@@ -40,6 +43,7 @@ Le rapport d'audit n'est pas fait systématiquement pour chaque room, seulement 
 | [Breaking RSA](Tryhackme/breaking-rsa/writeup.md)          | TryHackMe  | Medium     | ✅      | —               |
 | [SQHell](Tryhackme/sqhell/writeup.md)                      | TryHackMe  | Medium     | ✅      | —               |
 | [That's The Ticket](Tryhackme/thats-the-ticket/writeup.md) | TryHackMe  | Medium     | ✅      | —               |
+| [Dogcat](Tryhackme/dogcat/writeup.md)                      | TryHackMe  | Medium     | ✅      | —               |
 
 ## Avertissement
 
